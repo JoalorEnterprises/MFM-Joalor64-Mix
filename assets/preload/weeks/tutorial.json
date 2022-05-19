@@ -1,35 +1,20 @@
 {
-	"storyName": "How to Funk / Test",
-	"difficulties": "",
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekBefore": "tutorial",
-	"startUnlocked": true,
-	"hideStoryMode": false,
+	"songs": [
+		["Tutorial", "gf", [165, 0, 77]]
+	],
+
 	"weekCharacters": [
 		"",
 		"bf",
 		"gf"
 	],
-	"songs": [
-		[
-			"Test",
-			"bf-pixel",
-			[
-				71,
-				157,
-				255
-			]
-		],
-		[
-			"Tutorial",
-			"gf",
-			[
-				165,
-				20,
-				77
-			]
-		]
-	],
-	"weekName": "Tutorial"
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": true
 }

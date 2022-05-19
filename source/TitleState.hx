@@ -118,7 +118,7 @@ class TitleState extends MusicBeatState
 		#if CHECK_FOR_UPDATES
 		if(!closedState) {
 			trace('checking for update');
-			var http = new haxe.Http("https://raw.githubusercontent.com/Joalor64GH/Joalor64-Engine/main/gitVersion.txt");
+			var http = new haxe.Http("https://raw.githubusercontent.com/Joalor64GH/MFM-Joalor64-Mix/main/gitVersion.txt");
 			
 			http.onData = function (data:String)
 			{
@@ -624,16 +624,16 @@ class TitleState extends MusicBeatState
 			{
 				case 1:
 					#if PSYCH_WATERMARKS
-					createCoolText(['Created By'], 15);
+					createCoolText(['Originally Created By'], 15);
 					#else
 					createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
 					#end
 				// credTextShit.visible = true;
 				case 3:
 					#if PSYCH_WATERMARKS
-					addMoreText('Joalor64 YT', 15);
-					addMoreText('Bot 404', 15);
-					addMoreText('PE Devs', 15);
+					addMoreText('Dokki.Doodlez', 15);
+					addMoreText('kuroao_anomal', 15);
+					addMoreText('Mike Geno', 15);
 					#else
 					addMoreText('present');
 					#end
@@ -678,12 +678,12 @@ class TitleState extends MusicBeatState
 					addMoreText('Friday Night Funkin');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText('Joalor64 Engine');
+					addMoreText('Mid-Fight Masses');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('V1.1.0'); // credTextShit.text += '\nFunkin';
+					addMoreText('Joalor64'); // credTextShit.text += '\nFunkin';
 				case 16:
-			     	addMoreText('LOL');
+			     	addMoreText('Mix');
 
 				case 17:
 					skipIntro();

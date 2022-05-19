@@ -35,11 +35,9 @@ class MainMenuState extends MusicBeatState
 	var optionShit:Array<String> = [
 		'story_mode',
 		'freeplay',
-		#if MODS_ALLOWED 'mods', #end
-		#if ACHIEVEMENTS_ALLOWED 'awards', #end
-		'credits',
 		#if !switch 'donate', #end
-		'options'
+		'options',
+		'credits'
 	];
 
 	var magenta:FlxSprite;
@@ -127,7 +125,11 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 64, 0, "Joalor64 Engine v1.1.0",12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 64, 0, "MFM Joalor64 Mix v1.0.0",12);
+		versionShit.scrollFactor.set();
+		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(versionShit);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 64, 0, "Joalor64 Engine v1.1.0 (UNRELEASED)",12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
@@ -206,7 +208,7 @@ class MainMenuState extends MusicBeatState
 			{
 				if (optionShit[curSelected] == 'donate')
 				{
-					CoolUtil.browserLoad('sites.google.com/view/joalor64official-net6-deez/home');
+					CoolUtil.browserLoad('joalor64.itch.io/mid-fight-masses');
 				}
 				else
 				{

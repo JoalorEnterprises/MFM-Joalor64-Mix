@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				-5,
-				0
+				37
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				-30,
+				30
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				-45,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-76,
+				63
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-48,
-				-7
+				-79,
+				31
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				19
+				-32,
+				56
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				-48,
+				16
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-73,
+				58
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				-73,
+				56
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				-34,
+				38
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,8 +112,8 @@
 		},
 		{
 			"offsets": [
-				14,
-				18
+				-14,
+				201
 			],
 			"loop": false,
 			"fps": 24,
@@ -123,8 +123,8 @@
 		},
 		{
 			"offsets": [
-				-4,
-				0
+				-37,
+				37
 			],
 			"loop": true,
 			"fps": 24,
@@ -134,8 +134,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				11
+				5,
+				824
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,8 +145,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				5
+				5,
+				31
 			],
 			"loop": true,
 			"fps": 24,
@@ -156,8 +156,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				69
+				5,
+				95
 			],
 			"loop": false,
 			"fps": 24,
@@ -167,8 +167,8 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-16
+				-39,
+				23
 			],
 			"loop": false,
 			"fps": 24,
@@ -178,8 +178,8 @@
 		},
 		{
 			"offsets": [
-				294,
-				267
+				268,
+				315
 			],
 			"loop": false,
 			"fps": 24,
@@ -189,8 +189,8 @@
 		},
 		{
 			"offsets": [
-				-40,
-				-40
+				-75,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -203,7 +203,7 @@
 	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
-		350
+		360
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -214,7 +214,7 @@
 	],
 	"camera_position": [
 		0,
-		0
+		-10
 	],
 	"sing_duration": 4,
 	"scale": 1

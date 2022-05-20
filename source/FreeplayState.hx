@@ -265,7 +265,7 @@ class FreeplayState extends MusicBeatState
 			ratingSplit[1] += '0';
 		}
 
-		scoreText.text = 'JOALOR64 POINTS: ' + lerpScore + ' (' + ratingSplit.join('.') + '%)';
+		scoreText.text = 'CROSSES: ' + lerpScore + ' (' + ratingSplit.join('.') + '%)';
 		positionHighscore();
 
 		var upP = controls.UI_UP_P;

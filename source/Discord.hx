@@ -45,7 +45,7 @@ class DiscordClient
 			details: "In the Menus",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "Joalor64 Engine"
+			largeImageText: "Mid-Fight Masses: Joalor64 Mix"
 		});
 	}
 

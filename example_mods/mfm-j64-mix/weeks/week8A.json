@@ -1,0 +1,31 @@
+{
+	"storyName": "VS Fuckboi",
+	"difficulties": "Hard, Alt, Hell",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sel",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Attacklovania",
+			"selever",
+			[
+				115,
+				0,
+				60
+			]
+		]
+	],
+	"weekName": "Week 8A"
+}

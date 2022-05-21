@@ -81,13 +81,20 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['MFMJ64M Team'],
+			['Joalor64 YT',         'joalor',             'Literally Everything',                                  		'https://www.youtube.com/channel/UC4tRMRL_iAHX5n1qQpHibfg',  '00FFF6'],
+			['Additional Credits'],
+			['Team Style',         'style',             'Everything Related to VS. Selever',                                  		'https://github.com/DragShot/fnf-vs-selever-mod',  '91141B'],
+			['Mike Geno',         'mgeno',             'Composer of Mid-Fight Masses',                                  		'https://www.youtube.com/c/MikeGenoTheElectroWarper',  'FFC200'],
+			['Dokki.Doodlez',         'ddoodlez',             'Artist of Mid-Fight Masses',                                  		'https://twitter.com/dokkidoodlez',  'F592C6'],
+			['kuroao_anomal',         'bf',             'Programmer for Mid-Fight Masses',                                  		'https://twitter.com/Kuroao_Anomal',  '6642F5'],
 			['Joalor64 Engine Credits'],
 			['Joalor64 YT',         'joalor',             'Project leader, Programmer',                                  		'https://www.youtube.com/channel/UC4tRMRL_iAHX5n1qQpHibfg',  '00FFF6'],
 			['Bot 404',              'bot',             'Tiny little helper, Drew his own icon',                                     	    'https://www.youtube.com/channel/UC9ntkZ4Nz3AVKrAnderJnOg',            'FF0040'],
 			['PE Discord Server Members',             'discord',             'They made the Scripts lmao',                       		'https://discord.gg/2ka77eMXDv',          '6732E3'],
 			['BeastlyGhost',             'beastly',             'Latin Alphabet Support',                       		'https://github.com/BeastlyGhost',          '00FFAA'],
 			['HiroMizuki',             'hiro',             'Designer for Latin Alphabet Support',                       		'https://github.com/HiroMizuki',          '912E00'],
-			['Stilic',             'none',             'Note Combo Script',                       		'https://github.com/Stilic',          'C74B22'],
+			['Stilic',             'stilic',             'Note Combo Script',                       		'https://github.com/Stilic',          'C74B22'],
 			['weuz_',             'weuz',             'OS Engine Code',                       		'https://github.com/weuz-github',          '940EEB'],
 			['Special Thanks'],
 			['You',             'face',             'For playing :)',                       		'https://discord.gg/ScMB5ZX2mE',          '7E00FF'],			

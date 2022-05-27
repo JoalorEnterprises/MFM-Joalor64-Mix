@@ -1,5 +1,5 @@
 # Mid-Fight Masses: Joalor64 Mix
-All I did was change the pitches, recharted the songs and added a few extras lol.
+To make this, I basically modified the source code ALOT, remixed the songs using BandLab (bandlab supremacy), recharted the songs and added a few extras lol. Anyways, enjoy playing whatever the heck this thing is.
 
 # Joalor64 Engine
 ![](https://github.com/Joalor64GH/Joalor64-Engine/blob/main/art/logos/j64elogo.png?raw=true)

@@ -1,0 +1,49 @@
+{
+	"storyName": "Bonuses!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Zavowhitty",
+			"og",
+			[
+				40,
+				40,
+				80
+			]
+		],
+		[
+			"Ruv-odila",
+			"little-ruv",
+			[
+				226,
+				200,
+				253
+			]
+		],
+		[
+			"Vespers",
+			"sarvin-demon",
+			[
+				186,
+				0,
+				133
+			]
+		]
+	],
+	"weekCharacters": [
+		"ruv",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

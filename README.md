@@ -1,6 +1,9 @@
 # Mid-Fight Masses: Joalor64 Mix
 To make this, I basically modified the source code ALOT, remixed the songs using BandLab (bandlab supremacy), recharted the songs and added a few extras lol. Anyways, enjoy playing whatever the heck this thing is.
 
+# DEMO OUT NOW!!
+Download [here](https://joalor64.itch.io/mid-fight-masses-joalor64-mix)!
+
 # Joalor64 Engine
 ![](https://github.com/Joalor64GH/Joalor64-Engine/blob/main/art/logos/j64elogo.png?raw=true)
 * My custom version of Psych Engine made with some changes lol.

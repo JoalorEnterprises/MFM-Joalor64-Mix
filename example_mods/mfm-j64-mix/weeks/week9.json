@@ -3,18 +3,14 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "church",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"ruv",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Zavowhitty",
@@ -44,6 +40,15 @@
 			]
 		],
 		[
+			"Sychoneva",
+			"selever",
+			[
+				106,
+				20,
+				53
+			]
+		],
+		[
 			"Pressure",
 			"selever",
 			[
@@ -53,6 +58,10 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"ruv",
+		"bf",
+		"gf"
+	],
 	"weekName": "Custom Week"
 }

@@ -27,7 +27,7 @@ class MainMenuState extends MusicBeatState
 {
 	public static var mfmj64mVersion:String = '1.0.0'; //This is also used for Discord RPC
 	public static var mfmVersion:String = '1.4.30.21'; //This is also used for Discord RPC
-	public static var joalor64EngineVersion:String = '1.1.0 (UNRELEASED)'; //This is also used for Discord RPC
+	public static var joalor64EngineVersion:String = '1.1.1'; //This is also used for Discord RPC
 	public static var psychEngineVersion:String = '0.5.2h'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
